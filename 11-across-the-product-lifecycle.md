@@ -50,7 +50,7 @@ I don't expect every decision to account for every future possibility. We'd neve
 
 I do want to avoid solving today's problem by quietly creating a much larger one for whoever comes next.
 
-## Replacement Has Its Own Implementation Work
+## Replacement has its own implementation work
 
 Eventually, technology has to leave.
 
